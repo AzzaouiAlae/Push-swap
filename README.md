@@ -1,7 +1,3 @@
-Below is an improved version of your README with clearer language, better structure, and corrected spelling and grammar:
-
----
-
 # Push-swap 1337  
 42 Network School Project
 
