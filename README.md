@@ -30,7 +30,3 @@ Preliminary tests have even shown that **Bubble Sort** can outperform others und
 
 ## Conclusion  
 This project demonstrates the exploration of various sorting techniques and their combinations to achieve efficient number sorting using two stacks. Emphasis is placed on robust input validation and algorithm optimization to ensure the most effective sorting strategy is employed.
-
----
-
-Feel free to adjust any sections further to suit your specific project needs!
