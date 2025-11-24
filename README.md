@@ -24,7 +24,7 @@ To optimize the sorting process, these basic algorithms are combined to form mor
 - **Insertion-Select Sort**  
 - **Insertion-Select Quick Sort**  
 
-Building on these ideas, an innovative algorithm—**Insertion-Select Quick Alae Sort**—was developed. This method optimizes the process by preserving already sorted segments with zero additional moves. 
+Building on these ideas, an innovative algorithm—**Insertion-Select, Quick, longest common subsequence Sort**—was developed. This method optimizes the process by preserving already sorted segments with zero additional moves. 
 Ultimately, the algorithm that results in the **fewest moves** is chosen for the final sort. 
 Preliminary tests have even shown that **Bubble Sort** can outperform others under certain conditions.
 
