@@ -19,14 +19,14 @@ The project implements several basic sorting algorithms, including:
 - Gnome Sort  
 - Cocktail Shaker Sort
 - Quick Sort
-- longest common subsequence
+- longest sorted subsequence
 
 ## Hybrid Sorting Techniques  
 To optimize the sorting process, these basic algorithms are combined to form more efficient hybrid methods, such as:  
 - **Insertion-Select Sort**  
 - **Insertion-Select Quick Sort**  
 
-Building on these ideas, an innovative algorithm—**Insertion-Select, Quick, longest common subsequence Sort**—was developed. This method optimizes the process by preserving already sorted segments with zero additional moves. 
+Building on these ideas, an innovative algorithm—**Insertion-Select, Quick, longest sorted subsequence, Sort**—was developed. This method optimizes the process by preserving already sorted segments with zero additional moves. 
 Ultimately, the algorithm that results in the **fewest moves** is chosen for the final sort. 
 Preliminary tests have even shown that **Bubble Sort** can outperform others under certain conditions.
 
