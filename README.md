@@ -17,7 +17,9 @@ The project implements several basic sorting algorithms, including:
 - Selection Sort  
 - Insertion Sort  
 - Gnome Sort  
-- Cocktail Shaker Sort  
+- Cocktail Shaker Sort
+- Quick Sort
+- longest common subsequence
 
 ## Hybrid Sorting Techniques  
 To optimize the sorting process, these basic algorithms are combined to form more efficient hybrid methods, such as:  
